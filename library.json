@@ -2033,7 +2033,9 @@
     "isPilot": false,
     "showTitle": "Helluva Boss",
     "seasonNumber": 1,
-    "episodeNumber": 2
+    "episodeNumber": 2,
+    "accessRequirement": "free",
+    "channelVerified": true
   },
   {
     "id": "Pu12or7uOHE",
