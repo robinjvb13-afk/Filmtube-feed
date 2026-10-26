@@ -47,6 +47,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 8,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -63,6 +64,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 7,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -78,6 +80,7 @@
     "isPilot": false,
     "showTitle": "Impulse",
     "seasonNumber": 1,
+    "accessRequirement": "premium",
     "episodeNumber": 6,
     "channelVerified": true
   },
@@ -95,6 +98,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 5,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -111,6 +115,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 4,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -127,6 +132,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 3,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -143,6 +149,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 2,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -159,6 +166,7 @@
     "showTitle": "Impulse",
     "seasonNumber": 1,
     "episodeNumber": 1,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -187,6 +195,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 20,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -203,6 +212,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 19,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -219,6 +229,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 18,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -235,6 +246,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 17,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -251,6 +263,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 16,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -267,6 +280,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 13,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -283,6 +297,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 15,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -299,6 +314,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 14,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -315,6 +331,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 12,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -331,6 +348,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 11,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -347,6 +365,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 10,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -363,6 +382,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 9,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -379,6 +399,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 8,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -394,6 +415,7 @@
     "isPilot": false,
     "showTitle": "Part Timers",
     "seasonNumber": 1,
+    "accessRequirement": "free",
     "episodeNumber": 7,
     "channelVerified": true
   },
@@ -411,6 +433,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 6,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -427,6 +450,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 5,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -443,6 +467,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 4,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -459,6 +484,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 3,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -475,6 +501,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 2,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -491,6 +518,7 @@
     "showTitle": "Part Timers",
     "seasonNumber": 1,
     "episodeNumber": 1,
+    "accessRequirement": "free",
     "channelVerified": true
   },
   {
@@ -507,6 +535,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 10,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -523,6 +552,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 9,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -539,6 +569,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 8,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -555,6 +586,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 7,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -571,6 +603,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 6,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -587,6 +620,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 5,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -603,6 +637,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 4,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -619,6 +654,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 3,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -635,6 +671,7 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 2,
+    "accessRequirement": "premium",
     "channelVerified": true
   },
   {
@@ -651,8 +688,8 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 1,
-    "channelVerified": true,
-    "accessRequirement": "premium"
+    "accessRequirement": "premium",
+    "channelVerified": true
   },
   {
     "id": "DSV7P5Nib2k",
