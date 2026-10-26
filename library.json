@@ -2088,7 +2088,13 @@
     "addedAt": "2026-10-26T18:10:04.144Z",
     "showTitle": "The Amazing Digital Circus",
     "seasonNumber": 1,
-    "episodeNumber": 2
+    "episodeNumber": 2,
+    "accessRequirement": "free",
+    "channelId": "UCn_FAXem2-e3HQvmK-mOH4g",
+    "channelUrl": "https://www.youtube.com/channel/UCn_FAXem2-e3HQvmK-mOH4g",
+    "creatorAvatar": "",
+    "isPilot": false,
+    "channelVerified": true
   },
   {
     "id": "HwAPLk_sQ3w",
