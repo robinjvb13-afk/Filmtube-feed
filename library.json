@@ -2062,7 +2062,10 @@
     "addedAt": "2026-10-26T19:00:44.340Z",
     "showTitle": "Helluva Boss",
     "seasonNumber": 1,
-    "episodeNumber": 1
+    "episodeNumber": 1,
+    "accessRequirement": "free",
+    "isPilot": false,
+    "channelVerified": true
   },
   {
     "id": "Zlmswo0S0e0",
