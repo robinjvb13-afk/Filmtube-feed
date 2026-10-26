@@ -1,5 +1,22 @@
 [
   {
+    "id": "2IZ7dPvyMu8",
+    "title": "S2E7 'The End of the World' - Impulse",
+    "type": "episode",
+    "creatorName": "Impulse",
+    "accessRequirement": "premium",
+    "channel": "Impulse",
+    "channelId": "UCgLQkRAZsFN6fhqxFyx8qhQ",
+    "channelUrl": "https://www.youtube.com/channel/UCgLQkRAZsFN6fhqxFyx8qhQ",
+    "creatorAvatar": "https://yt3.ggpht.com/ytc/AIdro_mJN42hxFm7ErO0doXXR9DctS_QBG30C7Ofb1LPNNF3qlI=s88-c-k-c0x00ffffff-no-rj",
+    "addedAt": "2026-10-26T22:50:21.849Z",
+    "isPilot": false,
+    "showTitle": "Impulse",
+    "seasonNumber": 2,
+    "episodeNumber": 7,
+    "channelVerified": true
+  },
+  {
     "id": "6hgC4TyJdCw",
     "title": "S2E6 'Seven of Hearts' - Impulse",
     "type": "episode",
