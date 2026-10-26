@@ -651,7 +651,8 @@
     "showTitle": "Step Up: High Water",
     "seasonNumber": 1,
     "episodeNumber": 1,
-    "channelVerified": true
+    "channelVerified": true,
+    "accessRequirement": "premium"
   },
   {
     "id": "DSV7P5Nib2k",
