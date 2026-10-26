@@ -2103,6 +2103,8 @@
     "channelId": "UCn_FAXem2-e3HQvmK-mOH4g",
     "channelUrl": "https://www.youtube.com/channel/UCn_FAXem2-e3HQvmK-mOH4g",
     "creatorAvatar": "",
-    "isPilot": false
+    "isPilot": false,
+    "accessRequirement": "free",
+    "channelVerified": true
   }
 ]
