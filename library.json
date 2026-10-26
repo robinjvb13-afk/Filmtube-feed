@@ -179,7 +179,8 @@
     "channelUrl": "https://www.youtube.com/channel/UC17njCRIacUHbmB20N6vSOQ",
     "creatorAvatar": "https://yt3.ggpht.com/rn3T7ctXrFEmmi6VBPZpeL418PnXYJPjjU6VsnI5teTKc6bLUrWpBFYtVzKS-IlqUAlc8vKm=s88-c-k-c0x00ffffff-no-rj",
     "addedAt": "2026-10-26T22:10:32.191Z",
-    "channelVerified": true
+    "channelVerified": true,
+    "accessRequirement": "free"
   },
   {
     "id": "jC8gzOUe2To",
