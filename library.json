@@ -1,5 +1,21 @@
 [
   {
+    "id": "holzBghWTlY",
+    "title": "Impulse - Ep 1 \"Pilot\"",
+    "type": "episode",
+    "creatorName": "Impulse",
+    "channel": "Impulse",
+    "channelId": "UCgLQkRAZsFN6fhqxFyx8qhQ",
+    "channelUrl": "https://www.youtube.com/channel/UCgLQkRAZsFN6fhqxFyx8qhQ",
+    "creatorAvatar": "https://yt3.ggpht.com/ytc/AIdro_mJN42hxFm7ErO0doXXR9DctS_QBG30C7Ofb1LPNNF3qlI=s88-c-k-c0x00ffffff-no-rj",
+    "addedAt": "2026-10-26T22:13:34.608Z",
+    "isPilot": false,
+    "showTitle": "Impulse",
+    "seasonNumber": 1,
+    "episodeNumber": 1,
+    "channelVerified": true
+  },
+  {
     "id": "ItvwIwML3VI",
     "title": "HAMILTON: A Minecraft Musical",
     "type": "movie",
