@@ -2077,7 +2077,9 @@
     "showTitle": "Hazbin Hotel",
     "seasonNumber": 1,
     "episodeNumber": 0,
-    "isPilot": true
+    "isPilot": true,
+    "accessRequirement": "free",
+    "channelVerified": true
   },
   {
     "id": "4ofJpOEXrZs",
