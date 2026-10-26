@@ -25,7 +25,8 @@
     "addedAt": "2026-10-26T18:56:36.840Z",
     "showTitle": "Hazbin Hotel",
     "seasonNumber": 1,
-    "episodeNumber": 1
+    "episodeNumber": 0,
+    "isPilot": true
   },
   {
     "id": "4ofJpOEXrZs",
