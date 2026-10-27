@@ -1,5 +1,22 @@
 [
   {
+    "id": "BR-eMMCp7tg",
+    "title": "Behavior and Belief",
+    "type": "episode",
+    "creatorName": "Vsauce",
+    "accessRequirement": "free",
+    "channel": "Vsauce",
+    "channelId": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+    "channelUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
+    "creatorAvatar": "https://yt3.ggpht.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s88-c-k-c0x00ffffff-no-rj",
+    "addedAt": "2026-10-27T14:28:13.329Z",
+    "isPilot": false,
+    "showTitle": "Mind Field",
+    "seasonNumber": 3,
+    "episodeNumber": 7,
+    "channelVerified": true
+  },
+  {
     "id": "xna-kdXZQHQ",
     "title": "How to Talk to Aliens",
     "type": "episode",
