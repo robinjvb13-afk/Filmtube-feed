@@ -281,5 +281,20 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Mandelbrot Hall",
+    "creatorName": "Studio Flimpo",
+    "creatorChannelId": "UCQZVjGNr39A55l1JZ53scZA",
+    "displayTitle": "Mandelbrot Hall",
+    "genres": [
+      "Animation",
+      "Comedy",
+      "Scary",
+      "Mystery",
+      "Fiction"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
