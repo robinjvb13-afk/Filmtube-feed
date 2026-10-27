@@ -58,19 +58,6 @@
     "coverVideoId": ""
   },
   {
-    "showTitle": "Step Up: High Water",
-    "creatorName": "Step Up: High Water",
-    "creatorChannelId": "UCkM3cLfmWBSFoEU-xVnQ-dw",
-    "displayTitle": "Step Up: High Water",
-    "genres": [
-      "Drama",
-      "Romance",
-      "live-action"
-    ],
-    "description": "",
-    "coverVideoId": ""
-  },
-  {
     "showTitle": "Single by 30",
     "creatorName": "Wong Fu Productions",
     "creatorChannelId": "UCutXfzLC5wrV3SInT_tdY0w",
@@ -79,6 +66,20 @@
       "Romance",
       "Drama",
       "Comedy",
+      "live-action",
+      "Fiction"
+    ],
+    "description": "",
+    "coverVideoId": ""
+  },
+  {
+    "showTitle": "Step Up: High Water",
+    "creatorName": "Step Up: High Water",
+    "creatorChannelId": "UCkM3cLfmWBSFoEU-xVnQ-dw",
+    "displayTitle": "Step Up: High Water",
+    "genres": [
+      "Drama",
+      "Romance",
       "live-action",
       "Fiction"
     ],
