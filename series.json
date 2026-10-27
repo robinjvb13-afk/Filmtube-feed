@@ -478,5 +478,20 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Best Shot",
+    "creatorName": "NBA",
+    "creatorChannelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+    "displayTitle": "Best Shot",
+    "genres": [
+      "Sports",
+      "live-action",
+      "Documentary",
+      "Drama",
+      "Youtube"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
