@@ -166,5 +166,21 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Helluva Boss",
+    "creatorName": "Vivziepop",
+    "creatorChannelId": "UCLNfsUeQm6zU2eBlQbEy4tw",
+    "displayTitle": "Helluva Boss",
+    "genres": [
+      "Animation",
+      "Fiction",
+      "Drama",
+      "Action",
+      "Romance",
+      "Comedy"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
