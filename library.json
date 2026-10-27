@@ -3315,7 +3315,17 @@
     "addedAt": "2026-10-26T21:35:12.642Z",
     "choices": [],
     "accessRequirement": "free",
-    "channelVerified": true
+    "channelVerified": true,
+    "genres": [
+      "sci-fi",
+      "Action",
+      "Comedy",
+      "Fiction",
+      "Youtube",
+      "live-action",
+      "Mystery",
+      "Scary"
+    ]
   },
   {
     "id": "j64oZLF443g",
