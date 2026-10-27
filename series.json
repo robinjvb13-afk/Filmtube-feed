@@ -336,7 +336,9 @@
       "Documentary",
       "Comedy",
       "Scary",
-      "Drama"
+      "live-action",
+      "Youtube",
+      "Mystrery"
     ],
     "description": "",
     "coverVideoId": ""
