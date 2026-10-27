@@ -403,5 +403,21 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Good Game",
+    "creatorName": "GameGrumps",
+    "creatorChannelId": "UC9CuvdOVfMPvKCiwdGKL3cQ",
+    "displayTitle": "Good Game",
+    "genres": [
+      "Comedy",
+      "Drama",
+      "Fiction",
+      "Sports",
+      "Youtube",
+      "live-action"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
