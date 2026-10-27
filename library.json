@@ -3329,7 +3329,16 @@
     "addedAt": "2026-10-26T21:35:00.296Z",
     "choices": [],
     "accessRequirement": "free",
-    "channelVerified": true
+    "channelVerified": true,
+    "genres": [
+      "sci-fi",
+      "Action",
+      "Comedy",
+      "Fiction",
+      "Youtube",
+      "live-action",
+      "Mystery"
+    ]
   },
   {
     "id": "9TjfkXmwbTs",
