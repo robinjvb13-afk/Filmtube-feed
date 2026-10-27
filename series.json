@@ -31,19 +31,6 @@
     "coverVideoId": ""
   },
   {
-    "showTitle": "The Gaslight District",
-    "creatorName": "GLITCH",
-    "creatorChannelId": "UCn_FAXem2-e3HQvmK-mOH4g",
-    "displayTitle": "The Gaslight District",
-    "genres": [
-      "Fiction",
-      "Animation",
-      "Comedy"
-    ],
-    "description": "",
-    "coverVideoId": ""
-  },
-  {
     "showTitle": "Who Killed Markiplier",
     "creatorName": "Markiplier",
     "creatorChannelId": "UC7_YxT-KID8kRbqZo7MyscQ",
@@ -547,6 +534,23 @@
       "Action",
       "Youtube",
       "Comedy"
+    ],
+    "description": "",
+    "coverVideoId": ""
+  },
+  {
+    "showTitle": "The Gaslight District",
+    "creatorName": "GLITCH",
+    "creatorChannelId": "UCn_FAXem2-e3HQvmK-mOH4g",
+    "displayTitle": "The Gaslight District",
+    "genres": [
+      "Fiction",
+      "Animation",
+      "Comedy",
+      "Crime",
+      "Action",
+      "Drama",
+      "Scary"
     ],
     "description": "",
     "coverVideoId": ""
