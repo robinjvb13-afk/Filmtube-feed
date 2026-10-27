@@ -1999,7 +1999,15 @@
     "channelUrl": "https://www.youtube.com/channel/UC3d3_X0dUnt8YXVKyqr-XLA",
     "creatorAvatar": "https://yt3.ggpht.com/74Oo4ItTg5LodNHI1kKd6dR1bgVuXVr35_c3eF2VyDCjeEotPcDoRVqWkAZu6VPINinXnXIq2g=s88-c-k-c0x00ffffff-no-rj",
     "addedAt": "2026-10-26T22:56:25.643Z",
-    "channelVerified": true
+    "channelVerified": true,
+    "genres": [
+      "Musical",
+      "Comedy",
+      "Drama",
+      "Romance",
+      "Fiction",
+      "live-action"
+    ]
   },
   {
     "id": "E5DeAuQ4TyY",
