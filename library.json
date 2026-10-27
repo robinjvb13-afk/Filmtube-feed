@@ -1,5 +1,22 @@
 [
   {
+    "id": "U3lWVLuc6CE",
+    "title": "Ayahuasca",
+    "type": "episode",
+    "creatorName": "Vsauce",
+    "accessRequirement": "free",
+    "channel": "Vsauce",
+    "channelId": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+    "channelUrl": "https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA",
+    "creatorAvatar": "https://yt3.ggpht.com/ytc/AIdro_mpYedipdXUXCKkwjQEeFrepFlDHZ0LiczqWeKyG0YmJvA=s88-c-k-c0x00ffffff-no-rj",
+    "addedAt": "2026-10-27T14:25:28.738Z",
+    "isPilot": false,
+    "showTitle": "Mind Field",
+    "seasonNumber": 2,
+    "episodeNumber": 2,
+    "channelVerified": true
+  },
+  {
     "id": "1sl5KJ69qiA",
     "title": "The Trolley Problem in Real Life",
     "type": "episode",
