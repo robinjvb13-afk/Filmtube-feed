@@ -326,5 +326,19 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Mind Field",
+    "creatorName": "Vsauce",
+    "creatorChannelId": "UC6nSFpj9HTCZ5t-N3Rm3-HA",
+    "displayTitle": "Mind Field",
+    "genres": [
+      "Documentary",
+      "Comedy",
+      "Scary",
+      "Drama"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
