@@ -88,23 +88,6 @@
     "coverVideoId": ""
   },
   {
-    "showTitle": "Ryan Hansen",
-    "creatorName": "Ryan Hansen Solves Crimes on Television*",
-    "creatorChannelId": "UCRHlIUUZnPDTIe4io3rv0bA",
-    "displayTitle": "Ryan Hansen",
-    "genres": [
-      "Action",
-      "Comedy",
-      "live-action",
-      "Fiction",
-      "Mystery",
-      "Crime",
-      "Drama"
-    ],
-    "description": "",
-    "coverVideoId": ""
-  },
-  {
     "showTitle": "Part Timers",
     "creatorName": "Smosh",
     "creatorChannelId": "UCY30JRSgfhYXA6i6xX1erWg",
@@ -115,6 +98,24 @@
       "live-action",
       "Drama",
       "Romance"
+    ],
+    "description": "",
+    "coverVideoId": ""
+  },
+  {
+    "showTitle": "Ryan Hansen",
+    "creatorName": "Ryan Hansen Solves Crimes on Television*",
+    "creatorChannelId": "UCRHlIUUZnPDTIe4io3rv0bA",
+    "displayTitle": "Ryan Hansen",
+    "genres": [
+      "Action",
+      "Comedy",
+      "live-action",
+      "Fiction",
+      "Youtube",
+      "Mystery",
+      "Crime",
+      "Drama"
     ],
     "description": "",
     "coverVideoId": ""
