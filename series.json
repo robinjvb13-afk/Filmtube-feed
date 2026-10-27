@@ -44,20 +44,6 @@
     "coverVideoId": ""
   },
   {
-    "showTitle": "Step Up: High Water",
-    "creatorName": "Step Up: High Water",
-    "creatorChannelId": "UCkM3cLfmWBSFoEU-xVnQ-dw",
-    "displayTitle": "Step Up: High Water",
-    "genres": [
-      "Drama",
-      "Romance",
-      "live-action",
-      "Fiction"
-    ],
-    "description": "",
-    "coverVideoId": ""
-  },
-  {
     "showTitle": "Who Killed Markiplier",
     "creatorName": "Markiplier",
     "creatorChannelId": "UC7_YxT-KID8kRbqZo7MyscQ",
@@ -114,6 +100,21 @@
       "Romance",
       "Drama",
       "Comedy",
+      "live-action",
+      "Fiction",
+      "Youtube"
+    ],
+    "description": "",
+    "coverVideoId": ""
+  },
+  {
+    "showTitle": "Step Up: High Water",
+    "creatorName": "Step Up: High Water",
+    "creatorChannelId": "UCkM3cLfmWBSFoEU-xVnQ-dw",
+    "displayTitle": "Step Up: High Water",
+    "genres": [
+      "Drama",
+      "Romance",
       "live-action",
       "Fiction",
       "Youtube"
