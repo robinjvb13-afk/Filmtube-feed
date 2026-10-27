@@ -3384,7 +3384,14 @@
     "addedAt": "2026-10-26T21:28:18.496Z",
     "choices": [],
     "accessRequirement": "free",
-    "channelVerified": true
+    "channelVerified": true,
+    "genres": [
+      "Romance",
+      "Comedy",
+      "Fiction",
+      "live-action",
+      "Action"
+    ]
   },
   {
     "id": "caR9ouipm8o",
