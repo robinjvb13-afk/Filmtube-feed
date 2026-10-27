@@ -3509,7 +3509,15 @@
     "accessRequirement": "free",
     "channelUrl": "https://www.youtube.com/channel/UC7_YxT-KID8kRbqZo7MyscQ",
     "creatorAvatar": "https://yt3.ggpht.com/ytc/AIdro_nfDvwu14-iN5YZcaLIomwno1_3oFcYTmG5_kn7SMj_nec=s88-c-k-c0x00ffffff-no-rj",
-    "addedAt": "2026-10-26T21:12:18.053Z"
+    "addedAt": "2026-10-26T21:12:18.053Z",
+    "genres": [
+      "Animation",
+      "Drama",
+      "Fiction",
+      "Scary",
+      "Mystery"
+    ],
+    "channelVerified": true
   },
   {
     "id": "JUp9pCtn2BY",
