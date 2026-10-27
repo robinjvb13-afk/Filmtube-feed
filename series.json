@@ -597,5 +597,20 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Game Lab",
+    "creatorName": "The Game Theorists",
+    "creatorChannelId": "UCo_IB5145EVNcf8hw1Kku7w",
+    "displayTitle": "Game Lab",
+    "genres": [
+      "Comedy",
+      "live-action",
+      "Action",
+      "Youtube",
+      "Documentary"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
