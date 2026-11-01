@@ -683,5 +683,24 @@
     ],
     "description": "",
     "coverVideoId": ""
+  },
+  {
+    "showTitle": "Monkey Wrench",
+    "creatorName": "MonkeyWrench",
+    "creatorChannelId": "UCVXYr7yCUsfamWMf1N1qRJQ",
+    "displayTitle": "Monkey Wrench",
+    "genres": [
+      "Animation",
+      "sci-fi",
+      "Comedy",
+      "Action",
+      "Fiction",
+      "Mystery",
+      "Crime",
+      "Drama",
+      "Scary"
+    ],
+    "description": "",
+    "coverVideoId": ""
   }
 ]
