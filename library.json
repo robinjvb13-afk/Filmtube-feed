@@ -193,7 +193,7 @@
   {
     "id": "z21_w0QwiC4",
     "title": "Dan and Phil’s Story of TATINOF - Official Trailer",
-    "type": "trailer",
+    "type": "movie",
     "creatorName": "AmazingPhil",
     "accessRequirement": "free",
     "channel": "AmazingPhil",
@@ -203,7 +203,8 @@
     "addedAt": "2026-10-28T14:07:45.405Z",
     "trailerFor": "show",
     "showTitle": "Dan and Phil’s Story of TATINOF",
-    "channelVerified": true
+    "channelVerified": true,
+    "genres": []
   },
   {
     "id": "WVE_VckiOU4",
