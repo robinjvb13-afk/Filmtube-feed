@@ -1,5 +1,22 @@
 [
   {
+    "id": "8i18HXAa1uY",
+    "title": "Monkey Wrench Ep 1 - The Ghost Egg",
+    "type": "episode",
+    "creatorName": "MonkeyWrench",
+    "accessRequirement": "free",
+    "channel": "MonkeyWrench",
+    "channelId": "UCVXYr7yCUsfamWMf1N1qRJQ",
+    "channelUrl": "https://www.youtube.com/channel/UCVXYr7yCUsfamWMf1N1qRJQ",
+    "creatorAvatar": "https://yt3.ggpht.com/ndjuCno8GJ1278G10HJDPDYO9mv7BS25kAuA2G1LExfB5K5Jq13JM-sIBe70G3Bj6wJgKvaU99U=s88-c-k-c0x00ffffff-no-rj",
+    "addedAt": "2026-11-01T23:25:21.508Z",
+    "isPilot": false,
+    "showTitle": "Monkey Wrench",
+    "seasonNumber": 1,
+    "episodeNumber": 1,
+    "channelVerified": true
+  },
+  {
     "id": "ErQHVUQ6QCk",
     "title": "Little Runmo",
     "type": "movie",
