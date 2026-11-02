@@ -1,5 +1,31 @@
 [
   {
+    "id": "JIlPtQ_vx0A",
+    "title": "TOON TURF: PILOT",
+    "type": "episode",
+    "creatorName": "Riggy The Rabbit Monkey",
+    "accessRequirement": "free",
+    "channel": "Riggy The Rabbit Monkey",
+    "channelId": "UC82C-YvoAvIMQGho0zJFmIg",
+    "channelUrl": "https://www.youtube.com/channel/UC82C-YvoAvIMQGho0zJFmIg",
+    "creatorAvatar": "",
+    "creators": [
+      {
+        "name": "Riggy The Rabbit Monkey",
+        "channelId": "UC82C-YvoAvIMQGho0zJFmIg",
+        "channelUrl": "https://www.youtube.com/channel/UC82C-YvoAvIMQGho0zJFmIg",
+        "avatar": "",
+        "channelVerified": true
+      }
+    ],
+    "addedAt": "2026-11-02T00:29:24.064Z",
+    "isPilot": true,
+    "showTitle": "TOON TURF",
+    "seasonNumber": 1,
+    "episodeNumber": 0,
+    "channelVerified": true
+  },
+  {
     "id": "gLVU2jHUBeI",
     "title": "Loki IRL [Pilot]",
     "type": "episode",
