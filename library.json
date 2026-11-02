@@ -1,5 +1,38 @@
 [
   {
+    "id": "gLVU2jHUBeI",
+    "title": "Loki IRL [Pilot]",
+    "type": "episode",
+    "creatorName": "RebelTaxi",
+    "accessRequirement": "free",
+    "channel": "RebelTaxi",
+    "channelId": "UCN3Jj2sU9LNFQplsjsdxdrw",
+    "channelUrl": "https://www.youtube.com/channel/UCN3Jj2sU9LNFQplsjsdxdrw",
+    "creatorAvatar": "",
+    "creators": [
+      {
+        "name": "RebelTaxi",
+        "channelId": "UCN3Jj2sU9LNFQplsjsdxdrw",
+        "channelUrl": "https://www.youtube.com/channel/UCN3Jj2sU9LNFQplsjsdxdrw",
+        "avatar": "",
+        "channelVerified": true
+      },
+      {
+        "name": "PanPizzaProd",
+        "channelId": "UCRePDgvZGyxniyKPtx5A2SA",
+        "channelUrl": "https://www.youtube.com/channel/UCRePDgvZGyxniyKPtx5A2SA",
+        "avatar": "",
+        "channelVerified": true
+      }
+    ],
+    "addedAt": "2026-11-02T00:28:19.313Z",
+    "isPilot": true,
+    "showTitle": "Loki IRL",
+    "seasonNumber": 1,
+    "episodeNumber": 0,
+    "channelVerified": true
+  },
+  {
     "id": "6s9pwv_tI6A",
     "title": "Kali | Animated Horror",
     "type": "episode",
