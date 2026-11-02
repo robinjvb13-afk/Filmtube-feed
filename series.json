@@ -894,5 +894,35 @@
         "channelUrl": "https://www.youtube.com/channel/UC82C-YvoAvIMQGho0zJFmIg"
       }
     ]
+  },
+  {
+    "showTitle": "Loki IRL",
+    "creatorName": "RebelTaxi",
+    "creatorChannelId": "UCN3Jj2sU9LNFQplsjsdxdrw",
+    "displayTitle": "Loki IRL",
+    "genres": [
+      "Animation",
+      "Action",
+      "Comedy",
+      "Fiction",
+      "sci-fi",
+      "Drama",
+      "Mystery"
+    ],
+    "description": "",
+    "coverVideoId": "",
+    "creators": [
+      {
+        "name": "RebelTaxi",
+        "channelId": "UCN3Jj2sU9LNFQplsjsdxdrw",
+        "channelUrl": "https://www.youtube.com/channel/UCN3Jj2sU9LNFQplsjsdxdrw"
+      },
+      {
+        "name": "PanPizzaProd",
+        "channelId": "UCRePDgvZGyxniyKPtx5A2SA",
+        "channelUrl": "https://www.youtube.com/channel/UCRePDgvZGyxniyKPtx5A2SA",
+        "channelVerified": true
+      }
+    ]
   }
 ]
