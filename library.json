@@ -2441,7 +2441,23 @@
     "showTitle": "Climate Games",
     "seasonNumber": 1,
     "episodeNumber": 3,
-    "channelVerified": true
+    "channelVerified": true,
+    "creators": [
+      {
+        "name": "Danny MacAskill",
+        "channelId": "UC9kOkY1nYc0uADWRiRH64Rw",
+        "channelUrl": "https://www.youtube.com/channel/UC9kOkY1nYc0uADWRiRH64Rw",
+        "avatar": "https://yt3.ggpht.com/ytc/AIdro_mBdqy_DZgRmwk2dZt9VRr9Sgego8cJVP_46UCAj4CH-w=s88-c-k-c0x00ffffff-no-rj",
+        "channelVerified": true
+      },
+      {
+        "name": "physicsgirl",
+        "channelId": "UC7DdEm33SyaTDtWYGO2CwdA",
+        "channelUrl": "https://www.youtube.com/channel/UC7DdEm33SyaTDtWYGO2CwdA",
+        "avatar": "",
+        "channelVerified": true
+      }
+    ]
   },
   {
     "id": "p2t0VWg44JY",
