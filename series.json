@@ -924,5 +924,25 @@
         "channelVerified": true
       }
     ]
+  },
+  {
+    "showTitle": "MrBeast Lab",
+    "creatorName": "Beast Animations",
+    "creatorChannelId": "UCZzvDDvaYti8Dd8bLEiSoyQ",
+    "displayTitle": "MrBeast Lab",
+    "genres": [
+      "Animation",
+      "Action",
+      "sci-fi"
+    ],
+    "description": "",
+    "coverVideoId": "",
+    "creators": [
+      {
+        "name": "Beast Animations",
+        "channelId": "UCZzvDDvaYti8Dd8bLEiSoyQ",
+        "channelUrl": "https://www.youtube.com/channel/UCZzvDDvaYti8Dd8bLEiSoyQ"
+      }
+    ]
   }
 ]
