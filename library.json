@@ -1,5 +1,31 @@
 [
   {
+    "id": "5VZRiyT9s8g",
+    "title": "MrBeast Lab Ep 2: Nightmare Fuel",
+    "type": "episode",
+    "creatorName": "Beast Animations",
+    "accessRequirement": "free",
+    "channel": "Beast Animations",
+    "channelId": "UCZzvDDvaYti8Dd8bLEiSoyQ",
+    "channelUrl": "https://www.youtube.com/channel/UCZzvDDvaYti8Dd8bLEiSoyQ",
+    "creatorAvatar": "https://yt3.ggpht.com/KgSG-vk-5w18qNuZGqKJ-5S7NqpPn0R5qQosKig8Lm0EiNqPwSGDmA5CknPGphtvpXI5mj8dCCQ=s88-c-k-c0x00ffffff-no-rj",
+    "creators": [
+      {
+        "name": "Beast Animations",
+        "channelId": "UCZzvDDvaYti8Dd8bLEiSoyQ",
+        "channelUrl": "https://www.youtube.com/channel/UCZzvDDvaYti8Dd8bLEiSoyQ",
+        "avatar": "https://yt3.ggpht.com/KgSG-vk-5w18qNuZGqKJ-5S7NqpPn0R5qQosKig8Lm0EiNqPwSGDmA5CknPGphtvpXI5mj8dCCQ=s88-c-k-c0x00ffffff-no-rj",
+        "channelVerified": true
+      }
+    ],
+    "addedAt": "2026-11-09T14:27:57.742Z",
+    "isPilot": false,
+    "showTitle": "MrBeast Lab",
+    "seasonNumber": 1,
+    "episodeNumber": 2,
+    "channelVerified": true
+  },
+  {
     "id": "tycyv2eoOaU",
     "title": "MrBeast Lab Ep 1: Monster Invasion",
     "type": "episode",
