@@ -944,5 +944,24 @@
         "channelUrl": "https://www.youtube.com/channel/UCZzvDDvaYti8Dd8bLEiSoyQ"
       }
     ]
+  },
+  {
+    "showTitle": "Taskmaster",
+    "creatorName": "Taskmaster",
+    "creatorChannelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "displayTitle": "Taskmaster",
+    "genres": [
+      "Comedy",
+      "live-action"
+    ],
+    "description": "",
+    "coverVideoId": "",
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ"
+      }
+    ]
   }
 ]
