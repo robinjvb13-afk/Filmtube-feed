@@ -1,5 +1,31 @@
 [
   {
+    "id": "it_1RUCgpXM",
+    "title": "Season 6, Episode 8 - 'What Kind of Photos?' | Full Episode | Taskmaster",
+    "type": "episode",
+    "creatorName": "Taskmaster",
+    "accessRequirement": "free",
+    "channel": "Taskmaster",
+    "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
+    "creatorAvatar": "https://yt3.ggpht.com/B-m6RSbkd4OITuGkIiXfhkgbuWtAcsRh2Myh44CIaiKfiERyKhfux3Ji5Gb4Bc7KLfPUTlcojQ=s88-c-k-c0x00ffffff-no-rj",
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
+        "avatar": "https://yt3.ggpht.com/B-m6RSbkd4OITuGkIiXfhkgbuWtAcsRh2Myh44CIaiKfiERyKhfux3Ji5Gb4Bc7KLfPUTlcojQ=s88-c-k-c0x00ffffff-no-rj",
+        "channelVerified": true
+      }
+    ],
+    "addedAt": "2026-11-12T12:28:56.677Z",
+    "isPilot": false,
+    "showTitle": "Taskmaster",
+    "seasonNumber": 6,
+    "episodeNumber": 8,
+    "channelVerified": true
+  },
+  {
     "id": "it4s4HOEpdk",
     "title": "Season 6, Episode 7 - 'Roadkill Doused in Syrup' | Full Episode | Taskmaster",
     "type": "episode",
