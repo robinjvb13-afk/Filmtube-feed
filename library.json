@@ -1,5 +1,31 @@
 [
   {
+    "id": "H6CF2rNZsYE",
+    "title": "Season 8, Episode 3 - 'Stuck in a Mammal Groove.' | Full Episode | Taskmaster",
+    "type": "episode",
+    "creatorName": "Taskmaster",
+    "accessRequirement": "free",
+    "channel": "Taskmaster",
+    "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
+    "creatorAvatar": "https://yt3.ggpht.com/B-m6RSbkd4OITuGkIiXfhkgbuWtAcsRh2Myh44CIaiKfiERyKhfux3Ji5Gb4Bc7KLfPUTlcojQ=s88-c-k-c0x00ffffff-no-rj",
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
+        "avatar": "https://yt3.ggpht.com/B-m6RSbkd4OITuGkIiXfhkgbuWtAcsRh2Myh44CIaiKfiERyKhfux3Ji5Gb4Bc7KLfPUTlcojQ=s88-c-k-c0x00ffffff-no-rj",
+        "channelVerified": true
+      }
+    ],
+    "addedAt": "2026-11-13T14:30:44.111Z",
+    "isPilot": false,
+    "showTitle": "Taskmaster",
+    "seasonNumber": 8,
+    "episodeNumber": 3,
+    "channelVerified": true
+  },
+  {
     "id": "4NYEgDNEWUE",
     "title": "Season 8, Episode 2 | 'A Novel About Russian Gulags.' | Full Episode | Taskmaster",
     "type": "episode",
