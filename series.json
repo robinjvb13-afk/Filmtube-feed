@@ -963,5 +963,21 @@
         "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ"
       }
     ]
+  },
+  {
+    "showTitle": "Season 10,",
+    "creatorName": "Taskmaster",
+    "creatorChannelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "displayTitle": "Taskmaster",
+    "genres": [],
+    "description": "",
+    "coverVideoId": "",
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ"
+      }
+    ]
   }
 ]
