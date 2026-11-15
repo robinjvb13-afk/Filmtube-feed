@@ -81,18 +81,27 @@
     "id": "C54-nSAihho",
     "title": "Season 11 Episode 4 - 'Premature Conker.' | Full Episode | Taskmaster",
     "type": "episode",
-    "creatorName": "@Taskmaster",
+    "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
-    "channelId": "",
-    "channelUrl": "",
+    "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
     "creatorAvatar": "",
-    "creators": [],
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
+        "avatar": "",
+        "channelVerified": true
+      }
+    ],
     "addedAt": "2026-11-15T21:34:12.411Z",
     "isPilot": false,
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
-    "episodeNumber": 4
+    "episodeNumber": 4,
+    "channelVerified": true
   },
   {
     "id": "nf8gzXKx1RA",
