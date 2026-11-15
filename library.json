@@ -3,18 +3,27 @@
     "id": "vNTxnYm81n8",
     "title": "Season 11, Episode 1 - 'It's not your fault.' | Full Episode | Taskmaster",
     "type": "episode",
-    "creatorName": "@Taskmaster",
+    "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
     "channelId": "",
     "channelUrl": "",
     "creatorAvatar": "",
-    "creators": [],
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "",
+        "channelUrl": "",
+        "avatar": "",
+        "channelVerified": false
+      }
+    ],
     "addedAt": "2026-11-15T21:34:12.411Z",
     "isPilot": false,
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
-    "episodeNumber": 1
+    "episodeNumber": 1,
+    "channelVerified": false
   },
   {
     "id": "AJqiXQbB7rY",
