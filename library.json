@@ -32,16 +32,16 @@
     "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
-    "channelId": "",
-    "channelUrl": "",
+    "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
     "creatorAvatar": "",
     "creators": [
       {
         "name": "Taskmaster",
-        "channelId": "",
-        "channelUrl": "",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
         "avatar": "",
-        "channelVerified": false
+        "channelVerified": true
       }
     ],
     "addedAt": "2026-11-15T21:34:12.411Z",
@@ -49,7 +49,7 @@
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
     "episodeNumber": 2,
-    "channelVerified": false
+    "channelVerified": true
   },
   {
     "id": "9NsghRtIZAw",
