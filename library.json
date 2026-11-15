@@ -115,18 +115,27 @@
     "id": "jRIkN_bywoM",
     "title": "Season 11 Episode 6 - 'Absolute Casserole.' | Full Episode | Taskmaster",
     "type": "episode",
-    "creatorName": "@Taskmaster",
+    "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
-    "channelId": "",
-    "channelUrl": "",
+    "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+    "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
     "creatorAvatar": "",
-    "creators": [],
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "UCT5C7yaO3RVuOgwP8JVAujQ",
+        "channelUrl": "https://www.youtube.com/channel/UCT5C7yaO3RVuOgwP8JVAujQ",
+        "avatar": "",
+        "channelVerified": true
+      }
+    ],
     "addedAt": "2026-11-15T21:34:12.411Z",
     "isPilot": false,
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
-    "episodeNumber": 6
+    "episodeNumber": 6,
+    "channelVerified": true
   },
   {
     "id": "_gNZR5IEsAA",
