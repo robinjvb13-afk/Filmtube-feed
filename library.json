@@ -29,18 +29,27 @@
     "id": "AJqiXQbB7rY",
     "title": "Season 11, Episode 2 - 'The lure of the treacle puppies.' | Full Episode | Taskmaster",
     "type": "episode",
-    "creatorName": "@Taskmaster",
+    "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
     "channelId": "",
     "channelUrl": "",
     "creatorAvatar": "",
-    "creators": [],
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "",
+        "channelUrl": "",
+        "avatar": "",
+        "channelVerified": false
+      }
+    ],
     "addedAt": "2026-11-15T21:34:12.411Z",
     "isPilot": false,
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
-    "episodeNumber": 2
+    "episodeNumber": 2,
+    "channelVerified": false
   },
   {
     "id": "9NsghRtIZAw",
