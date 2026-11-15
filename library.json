@@ -149,18 +149,27 @@
     "id": "cjFE4h2MUQI",
     "title": "Season 11, Episode 8 - 'An orderly species.' | Full Episode | Taskmaster",
     "type": "episode",
-    "creatorName": "@Taskmaster",
+    "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
     "channelId": "",
     "channelUrl": "",
     "creatorAvatar": "",
-    "creators": [],
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "",
+        "channelUrl": "",
+        "avatar": "",
+        "channelVerified": false
+      }
+    ],
     "addedAt": "2026-11-15T21:34:12.411Z",
     "isPilot": false,
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
-    "episodeNumber": 8
+    "episodeNumber": 8,
+    "channelVerified": false
   },
   {
     "id": "Rz6tvy_KP4I",
