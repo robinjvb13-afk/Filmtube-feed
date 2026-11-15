@@ -55,18 +55,27 @@
     "id": "9NsghRtIZAw",
     "title": "Season 11, Episode 3 - 'Run up a tree to the moon.' | Full Episode | Taskmaster",
     "type": "episode",
-    "creatorName": "@Taskmaster",
+    "creatorName": "Taskmaster",
     "accessRequirement": "free",
     "channel": "@Taskmaster",
     "channelId": "",
     "channelUrl": "",
     "creatorAvatar": "",
-    "creators": [],
+    "creators": [
+      {
+        "name": "Taskmaster",
+        "channelId": "",
+        "channelUrl": "",
+        "avatar": "",
+        "channelVerified": false
+      }
+    ],
     "addedAt": "2026-11-15T21:34:12.411Z",
     "isPilot": false,
     "showTitle": "Taskmaster",
     "seasonNumber": 11,
-    "episodeNumber": 3
+    "episodeNumber": 3,
+    "channelVerified": false
   },
   {
     "id": "C54-nSAihho",
